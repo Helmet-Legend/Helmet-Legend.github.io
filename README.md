@@ -11,3 +11,4 @@ Empreintes SHA-256 dans `assetlinks.json` :
 2. clé de Google Play (Play Console, « Tester et publier », « Configuration », « Intégrité de l'application », « Certificat de la clé de signature d'application ») : à ajouter après le premier envoi, dans la même liste `sha256_cert_fingerprints`.
 
 Vérification : https://helmet-legend.github.io/.well-known/assetlinks.json doit afficher le fichier.
+ 
